@@ -400,6 +400,8 @@ This flow cleanly separates compute from storage and scales easily by increasing
   Keeps database credentials and configuration out of source control.  
   Container tasks receive secrets securely at runtime.
 
----
-
 This setup is straightforward for a production environment, easy to maintain, and aligns with typical AWS patterns for container-based backend APIs.
+
+<img width="5743" height="2405" alt="domeo_vertical_v_final_pretty" src="https://github.com/user-attachments/assets/958b2f38-14b2-4f62-8a1e-f81bbf99ad10" />
+
+---
